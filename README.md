@@ -1,2 +1,2 @@
 # demo_4_ella
-demonstration for Ella
+Simple demonstration for Ella of the tasks for loading LDBC data.
